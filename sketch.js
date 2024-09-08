@@ -173,7 +173,7 @@ class Tetris {
     {
       var ty = off + 32;
       var tx = x + w + x / 2;
-      var txtTitle = "TETRIS GAME";
+      var txtTitle = "Block Buster";
       canvas.textAlign(CENTER, CENTER);
       canvas.noStroke();
       canvas.textSize(32);
